@@ -1,5 +1,5 @@
 - :monkey_face: Hi, I’m Shrey `theaveragecoder`
-  - :necktie: Computer Vision Scientist, Cargill
+  - :necktie: Lead AI Scientist, Target
   - :mortar_board: PhD Medical Robotics, UIUC
   - :city_sunset: Minneapolis, MN
   
